@@ -8,8 +8,7 @@ Este repositório foi criado para reunir pequenos projetos em JavaScript, desenv
 
 * Exercitar a criatividade e passar o tempo de forma produtiva.
 
-Os projetos incluem exemplos clássicos como **To-Do List**, **Calculadora**, **Conversor de Moedas**, entre outros. Eles estão organizados por nível de dificuldade, para que você possa evoluir passo a passo.
-
+Os projetos incluem exemplos clássicos como **To-Do List**, **Calculadora**, **Conversor de Moedas**, entre outros. 
 ## 📂 Estrutura do Repositório
 
 * **Iniciante**: projetos básicos para treinar lógica e manipulação do DOM.
