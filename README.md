@@ -29,4 +29,4 @@ Este repositório não foi criado como uma lista de desafios, mas se você quise
 
 ## 📝 Observação
 
-Muitos dos códigos estão bem comentados para auxiliar no meu aprendizado, pois eu criei e análisei linha por linha. Se você está começando, pode ser um bom material para acompanhar e adaptar.
+Muitos dos códigos estão bem comentados para auxiliar no meu aprendizado, pois eu análisei linha por linha. Se você está começando, pode ser um bom material para acompanhar e adaptar.
