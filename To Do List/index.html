@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles/reset.css">
+    <link rel="stylesheet" href="/styles/styles.css">
+
+    <title>My ToDo List</title>
+
+</head>
+
+<body>
+    <main class="app-container">
+        <div class="card">
+            <h1 class="card-header">My ToDo List</h1>
+
+            <div class="card-body">
+                <form id="taskForm" class="task-form">
+                    <input id="taskInput" type="text" placeholder="Adicionar uma nova tarefa..." autocomplete="off" />
+                    <button type="submit">+</button>
+                </form>
+
+                <ul id="tasks" class="tasks-list" aria-live="polite"></ul>
+
+                <p id="message">Nenhuma tarefa adicionada</p>
+
+            </div>
+        </div>
+    </main>
+
+    <script src="https://unpkg.com/lucide@latest/dist/lucide.min.js"></script>
+    <script src="/scripts/main.js" defer></script>
+</body>
+
+</html>
