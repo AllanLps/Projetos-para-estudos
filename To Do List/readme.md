@@ -30,3 +30,5 @@ Praticar manipulação do DOM, eventos e uso de arrays para armazenar itens da l
 * Alterar estilos dinamicamente para indicar tarefas concluídas.
 
 * Estruturar lógica com arrays simples.
+
+### Dá uma olhada aqui: https://projetos-para-estudos.vercel.app/
